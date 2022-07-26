@@ -25,3 +25,8 @@ oddishOrEvenish(4433) ➞ "Evenish"
 // 4 + 4 + 3 + 3 = 14
 
 // 14 % 2 = 0
+
+## Usage
+
+    cd OddishEvenish
+    node OddishOrEvenish.js
